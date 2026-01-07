@@ -3,7 +3,7 @@ Hi 👋 I'm Pragati Sahu  <br><br>Aspiring Software Developer with working knowl
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahu-pragati/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahu-pragati/)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pragatisahu2811@gmail.com) 
 
 ## 💻 Tech Stack:
